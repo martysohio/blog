@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Labor on Marty S Ramblings</title>
+    <link>https://example.org/tags/labor/</link>
+    <description>Recent content in Labor on Marty S Ramblings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jun 2019 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.org/tags/labor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Burn out</title>
+      <link>https://example.org/2019/06/burn-out/</link>
+      <pubDate>Fri, 28 Jun 2019 13:50:46 +0200</pubDate>
+      
+      <guid>https://example.org/2019/06/burn-out/</guid>
+      <description>Burnout and You Having worked at the same company for 5+ years, its not impossible that at some point I&amp;rsquo;ve suffered from burnout. However, since I am working at the same place, it has not been enough to leave. I can say I have watched several people crash spectacularly. From watching them I&amp;rsquo;ve got some shitty unsolicited advice for anyone who has a cushy middle class job.
+First, get your personal shit in order.</description>
+    </item>
+    
+  </channel>
+</rss>

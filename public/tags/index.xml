@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Marty S Ramblings</title>
+    <link>https://example.org/tags/</link>
+    <description>Recent content in Tags on Marty S Ramblings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jun 2019 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bourgeouis</title>
+      <link>https://example.org/tags/bourgeouis/</link>
+      <pubDate>Fri, 28 Jun 2019 13:50:46 +0200</pubDate>
+      
+      <guid>https://example.org/tags/bourgeouis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Foster</title>
+      <link>https://example.org/tags/foster/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/foster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Goose</title>
+      <link>https://example.org/tags/goose/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/tags/goose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hackerrank</title>
+      <link>https://example.org/tags/hackerrank/</link>
+      <pubDate>Thu, 18 Jul 2019 13:50:46 +0200</pubDate>
+      
+      <guid>https://example.org/tags/hackerrank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Labor</title>
+      <link>https://example.org/tags/labor/</link>
+      <pubDate>Fri, 28 Jun 2019 13:50:46 +0200</pubDate>
+      
+      <guid>https://example.org/tags/labor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random</title>
+      <link>https://example.org/tags/random/</link>
+      <pubDate>Fri, 28 Jun 2019 13:50:46 +0200</pubDate>
+      
+      <guid>https://example.org/tags/random/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>https://example.org/tags/tech/</link>
+      <pubDate>Fri, 28 Jun 2019 13:50:46 +0200</pubDate>
+      
+      <guid>https://example.org/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

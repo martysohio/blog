@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Starting on Marty S Ramblings</title>
+    <link>https://example.org/categories/starting/</link>
+    <description>Recent content in Starting on Marty S Ramblings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jun 2019 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.org/categories/starting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Burn out</title>
+      <link>https://example.org/2019/06/burn-out/</link>
+      <pubDate>Fri, 28 Jun 2019 13:50:46 +0200</pubDate>
+      
+      <guid>https://example.org/2019/06/burn-out/</guid>
+      <description>Burnout and You Having worked at the same company for 5+ years, its not impossible that at some point I&amp;rsquo;ve suffered from burnout. However, since I am working at the same place, it has not been enough to leave. I can say I have watched several people crash spectacularly. From watching them I&amp;rsquo;ve got some shitty unsolicited advice for anyone who has a cushy middle class job.
+First, get your personal shit in order.</description>
+    </item>
+    
+    <item>
+      <title>Random thoughts</title>
+      <link>https://example.org/2018/12/random-thoughts/</link>
+      <pubDate>Fri, 28 Dec 2018 13:50:46 +0200</pubDate>
+      
+      <guid>https://example.org/2018/12/random-thoughts/</guid>
+      <description>This timeline is weird If you&amp;rsquo;d told me 15 years ago, I would have two kids and be fostering two more, I&amp;rsquo;d have called you nuts. I&amp;rsquo;ve turned into everyone&amp;rsquo;s dad. The stampede of footsteps every morning is my alarm clock. And my day is a constant stream of the question &amp;ldquo;why&amp;rdquo;.
+Expectation never meets reality, and I&amp;rsquo;m not unhappy at all. People think you can make precarious plans and follow them.</description>
+    </item>
+    
+  </channel>
+</rss>
