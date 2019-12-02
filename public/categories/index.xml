@@ -2,65 +2,92 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Marty S Ramblings</title>
-    <link>https://example.org/categories/</link>
+    <link>https://martysohio.com/categories/</link>
     <description>Recent content in Categories on Marty S Ramblings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://martysohio.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Foster Care</title>
-      <link>https://example.org/categories/foster-care/</link>
+      <link>https://martysohio.com/categories/foster-care/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/foster-care/</guid>
+      <guid>https://martysohio.com/categories/foster-care/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hackerrank</title>
-      <link>https://example.org/categories/hackerrank/</link>
+      <link>https://martysohio.com/categories/hackerrank/</link>
       <pubDate>Thu, 18 Jul 2019 13:50:46 +0200</pubDate>
       
-      <guid>https://example.org/categories/hackerrank/</guid>
+      <guid>https://martysohio.com/categories/hackerrank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://martysohio.com/categories/linux/</link>
+      <pubDate>Wed, 18 Sep 2019 13:50:46 +0200</pubDate>
+      
+      <guid>https://martysohio.com/categories/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ohio</title>
-      <link>https://example.org/categories/ohio/</link>
+      <link>https://martysohio.com/categories/ohio/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/ohio/</guid>
+      <guid>https://martysohio.com/categories/ohio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portage County</title>
+      <link>https://martysohio.com/categories/portage-county/</link>
+      <pubDate>Wed, 06 Nov 2019 13:50:46 +0200</pubDate>
+      
+      <guid>https://martysohio.com/categories/portage-county/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://martysohio.com/categories/python/</link>
+      <pubDate>Thu, 31 Oct 2019 13:50:46 +0200</pubDate>
+      
+      <guid>https://martysohio.com/categories/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Random</title>
-      <link>https://example.org/categories/random/</link>
+      <link>https://martysohio.com/categories/random/</link>
       <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/random/</guid>
+      <guid>https://martysohio.com/categories/random/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Starting</title>
-      <link>https://example.org/categories/starting/</link>
-      <pubDate>Fri, 28 Jun 2019 13:50:46 +0200</pubDate>
+      <link>https://martysohio.com/categories/starting/</link>
+      <pubDate>Fri, 28 Dec 2018 13:50:46 +0200</pubDate>
       
-      <guid>https://example.org/categories/starting/</guid>
+      <guid>https://martysohio.com/categories/starting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Farm</title>
-      <link>https://example.org/categories/the-farm/</link>
+      <link>https://martysohio.com/categories/the-farm/</link>
       <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/the-farm/</guid>
+      <guid>https://martysohio.com/categories/the-farm/</guid>
       <description></description>
     </item>
     

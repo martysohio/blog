@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Marty S Ramblings</title>
+    <link>https://martysohio.com/categories/linux/</link>
+    <description>Recent content in Linux on Marty S Ramblings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Sep 2019 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://martysohio.com/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Disable App Grouping in Linux Mint 19 Taskbar</title>
+      <link>https://martysohio.com/2019/09/disable-app-grouping-in-linux-mint-19-taskbar/</link>
+      <pubDate>Wed, 18 Sep 2019 13:50:46 +0200</pubDate>
+      
+      <guid>https://martysohio.com/2019/09/disable-app-grouping-in-linux-mint-19-taskbar/</guid>
+      <description>Simple fluff here. Took me a while to hunt down this feature. I switched to the latest Mint, and the applications all group by type like this -
+If you have an Incognito tab or multiple folders, its a bit annoying for me to hover and flip through and I like to click rather than Alt+Tab or some other window switching method.
+To change it:
+ Right click empty space on the taskbar, click + Add Applets to Panel  Select Grouped Window List from the next menu and click the gear icon next to it In the next window untoggle the Group windows by application option   And thats it, now all your applications will be spread out even with multiples of the same app open.</description>
+    </item>
+    
+  </channel>
+</rss>

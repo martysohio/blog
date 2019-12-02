@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schools on Marty S Ramblings</title>
+    <link>https://martysohio.com/tags/schools/</link>
+    <description>Recent content in Schools on Marty S Ramblings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Nov 2019 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="https://martysohio.com/tags/schools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Waterloo Levy fails again</title>
+      <link>https://martysohio.com/2019/11/waterloo-levy-fails-again/</link>
+      <pubDate>Wed, 06 Nov 2019 13:50:46 +0200</pubDate>
+      
+      <guid>https://martysohio.com/2019/11/waterloo-levy-fails-again/</guid>
+      <description>In Ohio, school districts are about 50% funded via the local school district population. Additional funding comes from the state based on the number of students. It is a terrible system that was ruled unconstitutional in the 90s and really not much has changed despite the ruling. For the curious, there are innumerable better sources on why and how that is out there on the Internet.
+My local district Waterloo is no exception.</description>
+    </item>
+    
+  </channel>
+</rss>

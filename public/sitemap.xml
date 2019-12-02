@@ -3,142 +3,188 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/2019/07/hacker-rank-special-multiple/</loc>
+    <loc>https://martysohio.com/2019/11/waterloo-levy-fails-again/</loc>
+    <lastmod>2019-11-06T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/2019/10/py-pong/</loc>
+    <lastmod>2019-10-31T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/2019/09/disable-app-grouping-in-linux-mint-19-taskbar/</loc>
+    <lastmod>2019-09-18T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/2019/07/hacker-rank-special-multiple/</loc>
     <lastmod>2019-07-18T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/2019/06/burn-out/</loc>
-    <lastmod>2019-06-28T13:50:46+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://example.org/2019/06/canadian-geese---natures-satanic-cult/</loc>
+    <loc>https://martysohio.com/2019/06/canadian-geese---natures-satanic-cult/</loc>
     <lastmod>2019-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/2019/04/our-first-foster-placement-pt.-3---the-end/</loc>
+    <loc>https://martysohio.com/2019/04/our-first-foster-placement-pt.-3---the-end/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/2019/03/our-first-foster-placement-pt.-2/</loc>
+    <loc>https://martysohio.com/2019/03/our-first-foster-placement-pt.-2/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/2019/03/our-first-foster-placement-pt.-1/</loc>
+    <loc>https://martysohio.com/2019/03/our-first-foster-placement-pt.-1/</loc>
     <lastmod>2019-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/2018/12/random-thoughts/</loc>
+    <loc>https://martysohio.com/2018/12/random-thoughts/</loc>
     <lastmod>2018-12-28T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/archives/</loc>
+    <loc>https://martysohio.com/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/bourgeouis/</loc>
-    <lastmod>2019-06-28T13:50:46+02:00</lastmod>
+    <loc>https://martysohio.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://martysohio.com/tags/coding/</loc>
+    <lastmod>2019-10-31T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/foster/</loc>
+    <loc>https://martysohio.com/tags/foster/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/foster-care/</loc>
+    <loc>https://martysohio.com/categories/foster-care/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/goose/</loc>
+    <loc>https://martysohio.com/tags/goose/</loc>
     <lastmod>2019-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/hackerrank/</loc>
+    <loc>https://martysohio.com/tags/hackerrank/</loc>
     <lastmod>2019-07-18T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/hackerrank/</loc>
+    <loc>https://martysohio.com/categories/hackerrank/</loc>
     <lastmod>2019-07-18T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/labor/</loc>
-    <lastmod>2019-06-28T13:50:46+02:00</lastmod>
+    <loc>https://martysohio.com/tags/linux/</loc>
+    <lastmod>2019-09-18T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/</loc>
-    <lastmod>2019-07-18T13:50:46+02:00</lastmod>
+    <loc>https://martysohio.com/categories/linux/</loc>
+    <lastmod>2019-09-18T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/ohio/</loc>
+    <loc>https://martysohio.com/tags/local/</loc>
+    <lastmod>2019-11-06T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/</loc>
+    <lastmod>2019-11-06T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/categories/ohio/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/post/</loc>
-    <lastmod>2019-07-18T13:50:46+02:00</lastmod>
+    <loc>https://martysohio.com/categories/portage-county/</loc>
+    <lastmod>2019-11-06T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/random/</loc>
-    <lastmod>2019-06-28T13:50:46+02:00</lastmod>
+    <loc>https://martysohio.com/post/</loc>
+    <lastmod>2019-11-06T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/random/</loc>
+    <loc>https://martysohio.com/tags/python/</loc>
+    <lastmod>2019-10-31T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/categories/python/</loc>
+    <lastmod>2019-10-31T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/tags/random/</loc>
+    <lastmod>2019-11-06T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/categories/random/</loc>
     <lastmod>2019-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/starting/</loc>
-    <lastmod>2019-06-28T13:50:46+02:00</lastmod>
+    <loc>https://martysohio.com/tags/schools/</loc>
+    <lastmod>2019-11-06T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
-    <lastmod>2019-06-28T13:50:46+02:00</lastmod>
+    <loc>https://martysohio.com/categories/starting/</loc>
+    <lastmod>2018-12-28T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/tags/tech/</loc>
-    <lastmod>2019-06-28T13:50:46+02:00</lastmod>
+    <loc>https://martysohio.com/tags/</loc>
+    <lastmod>2019-10-31T13:50:46+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://example.org/categories/the-farm/</loc>
+    <loc>https://martysohio.com/tags/tech/</loc>
+    <lastmod>2019-10-31T13:50:46+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/categories/the-farm/</loc>
     <lastmod>2019-06-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

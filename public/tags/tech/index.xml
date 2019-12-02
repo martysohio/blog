@@ -2,23 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tech on Marty S Ramblings</title>
-    <link>https://example.org/tags/tech/</link>
+    <link>https://martysohio.com/tags/tech/</link>
     <description>Recent content in Tech on Marty S Ramblings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jun 2019 13:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2019 13:50:46 +0200</lastBuildDate>
     
-	<atom:link href="https://example.org/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://martysohio.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Burn out</title>
-      <link>https://example.org/2019/06/burn-out/</link>
-      <pubDate>Fri, 28 Jun 2019 13:50:46 +0200</pubDate>
+      <title>Py Pong</title>
+      <link>https://martysohio.com/2019/10/py-pong/</link>
+      <pubDate>Thu, 31 Oct 2019 13:50:46 +0200</pubDate>
       
-      <guid>https://example.org/2019/06/burn-out/</guid>
-      <description>Burnout and You Having worked at the same company for 5+ years, its not impossible that at some point I&amp;rsquo;ve suffered from burnout. However, since I am working at the same place, it has not been enough to leave. I can say I have watched several people crash spectacularly. From watching them I&amp;rsquo;ve got some shitty unsolicited advice for anyone who has a cushy middle class job.
-First, get your personal shit in order.</description>
+      <guid>https://martysohio.com/2019/10/py-pong/</guid>
+      <description>I&amp;rsquo;ve been messing around with PyGame and its certainly a trip. Game logic is much easier than the mechanics of drawing something in the proper order and the proper way. It took way longer than I expected to get a basic version of Pong functional.</description>
     </item>
     
   </channel>
