@@ -22,12 +22,12 @@ My local district Waterloo is no exception.</description>
     </item>
     
     <item>
-      <title>Py Pong</title>
-      <link>https://martysohio.com/2019/10/py-pong/</link>
+      <title>Py Pong starter</title>
+      <link>https://martysohio.com/2019/10/py-pong-starter/</link>
       <pubDate>Thu, 31 Oct 2019 13:50:46 +0200</pubDate>
       
-      <guid>https://martysohio.com/2019/10/py-pong/</guid>
-      <description>I&amp;rsquo;ve been messing around with PyGame and its certainly a trip. Game logic is much easier than the mechanics of drawing something in the proper order and the proper way. It took way longer than I expected to get a basic version of Pong functional.</description>
+      <guid>https://martysohio.com/2019/10/py-pong-starter/</guid>
+      <description>I&amp;rsquo;ve been messing around with PyGame and its certainly a trip. Game logic is much easier than the mechanics of drawing something in the proper order and the proper way. It took way longer than I expected to get a basic version of Pong functional. Needs some final tweaks to beat the 80&amp;frasl;20 rule and have something that is truly complete. I keep redoing it as I find something else out about PyGame and game logic in general.</description>
     </item>
     
     <item>

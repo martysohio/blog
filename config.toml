@@ -19,7 +19,7 @@ title = "Marty S Ramblings"
 theme = "hugo-tranquilpeak-theme"
 themesDir= "themes"
 disqusShortname = "hugo-tranquilpeak-theme"
-# googleAnalytics = "UA-123-45"
+googleAnalytics = "UA-143906571-2"
 paginate = 7
 canonifyurls = true
 
