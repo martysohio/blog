@@ -1,11 +1,17 @@
-+++
-title = "Hacker Rank Special Multiple"
-date = "2019-07-18T13:50:46+02:00"
-tags = ["hackerrank"]
-categories = ["hackerrank"]
-banner = "img/banners/banner-1.jpg"
-+++
 
+---
+title: "Hacker Rank Special Multiple"
+thumbnailImagePosition: left
+thumbnailImage: /img/thumb_cards.jpg
+metaAlignment: center
+coverMeta: out
+date: 2019-07-18
+categories:
+- hackerrank
+tags:
+- random
+- code
+---
 
 Not a hard one: `You are given an integer N. Can you find the least positive integer X made up of only 9's and 0's, such that, X is a multiple of N?`
 

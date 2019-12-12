@@ -6,10 +6,20 @@
     <description>Recent content in Python on Marty S Ramblings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 31 Oct 2019 13:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://martysohio.com/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Py Metis HTTP Monitor</title>
+      <link>https://martysohio.com/2019/11/py-metis-http-monitor/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://martysohio.com/2019/11/py-metis-http-monitor/</guid>
+      <description>Making your own HTTP monitor without breaking the bank can be difficult if you need to scale your monitoring up to thousands of URLs. In most cases, you want to hit some URL every 5 minutes, sometimes every minute. If you have a long list of URLs, then you run into a few constraints:
+ The scan of the URLs has to complete before the next run - monitoring every 5 minutes means your ping and processing has to take less than 5 minutes Jobs can&amp;rsquo;t overrun or you risk spamming your list with HTTP hits Processing the results into useful alerts can also constrain you, but there are multiple ways to approach alerting depending on your needs  I&amp;rsquo;ve seen implementations in Go that make it easier or some other language geared towards concurrency.</description>
+    </item>
     
     <item>
       <title>Py Pong Starter</title>

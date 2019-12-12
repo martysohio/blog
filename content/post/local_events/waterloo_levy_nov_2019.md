@@ -1,11 +1,17 @@
-+++
-title = "Waterloo Levy fails again"
-date = "2019-11-06T13:50:46+02:00"
-tags = ["random","local","schools"]
-categories = ["Portage County"]
-
-+++
-
+---
+title: "Waterloo Levy Fails Again"
+thumbnailImagePosition: left
+thumbnailImage: /img/thumb_guards.jpg
+metaAlignment: center
+coverMeta: out
+date: 2019-11-06
+categories:
+- Portage County
+tags:
+- random
+- local
+- schools
+---
 In Ohio, school districts are about 50% funded via the local school district population. Additional funding comes from the state based on the number of students.  It is a terrible system that was ruled unconstitutional in the 90s and really not much has changed despite the ruling. For the curious, there are innumerable better sources on why and how that is out there on the Internet.
 
 My local district [Waterloo](http://www.viking.portage.k12.oh.us/) is no exception. They have had a levy in some form on the ballot in every election the past few years.  And in their public statements announced they have cut bussing to the high school, and have let six teachers go plus not replacing three more.  I don't see how the district continues to exist and offer a consistent education without basic resources like a bus system.

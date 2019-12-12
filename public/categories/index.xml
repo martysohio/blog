@@ -22,7 +22,7 @@
     <item>
       <title>Hackerrank</title>
       <link>https://martysohio.com/categories/hackerrank/</link>
-      <pubDate>Thu, 18 Jul 2019 13:50:46 +0200</pubDate>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://martysohio.com/categories/hackerrank/</guid>
       <description></description>
@@ -49,7 +49,7 @@
     <item>
       <title>Portage County</title>
       <link>https://martysohio.com/categories/portage-county/</link>
-      <pubDate>Wed, 06 Nov 2019 13:50:46 +0200</pubDate>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://martysohio.com/categories/portage-county/</guid>
       <description></description>
@@ -58,7 +58,7 @@
     <item>
       <title>Python</title>
       <link>https://martysohio.com/categories/python/</link>
-      <pubDate>Thu, 31 Oct 2019 13:50:46 +0200</pubDate>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://martysohio.com/categories/python/</guid>
       <description></description>
@@ -70,6 +70,15 @@
       <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://martysohio.com/categories/random/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social</title>
+      <link>https://martysohio.com/categories/social/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://martysohio.com/categories/social/</guid>
       <description></description>
     </item>
     
@@ -88,6 +97,15 @@
       <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://martysohio.com/categories/the-farm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tv</title>
+      <link>https://martysohio.com/categories/tv/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://martysohio.com/categories/tv/</guid>
       <description></description>
     </item>
     

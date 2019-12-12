@@ -1,11 +1,17 @@
-+++
-title = "Py Metis HTTP Monitor"
-date = "2019-11-15T13:50:46+02:00"
-tags = ["random","tech","python","coding"]
-categories = ["Python"]
-
-+++
-
+---
+title: "Py Metis HTTP Monitor"
+thumbnailImagePosition: left
+thumbnailImage: /img/thumb_castle.jpg
+metaAlignment: center
+coverMeta: out
+date: 2019-11-15
+categories:
+- Python
+tags:
+- random
+- tech
+- coding
+---
 
 Making your own HTTP monitor without breaking the bank can be difficult if you need to scale your monitoring up to thousands of URLs.  In most cases, you want to hit some URL every 5 minutes, sometimes every minute.  If you have a long list of URLs, then you run into a few constraints:
 

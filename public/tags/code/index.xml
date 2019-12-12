@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Code on Marty S Ramblings</title>
+    <link>https://martysohio.com/tags/code/</link>
+    <description>Recent content in Code on Marty S Ramblings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://martysohio.com/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hacker Rank Special Multiple</title>
+      <link>https://martysohio.com/2019/07/hacker-rank-special-multiple/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://martysohio.com/2019/07/hacker-rank-special-multiple/</guid>
+      <description>Not a hard one: You are given an integer N. Can you find the least positive integer X made up of only 9&#39;s and 0&#39;s, such that, X is a multiple of N?
+Any number consisting of just 9s and 0s is divisible by 9. I see a few ways to use that, also 9s and 0s are two unique characters, so another way would be to process numbers are strings matching those characters rather than evaluating every multiple of N until you hit one thats divisible by 9, as something can be divisible by 9 but not be only 9s and 0s.</description>
+    </item>
+    
+  </channel>
+</rss>

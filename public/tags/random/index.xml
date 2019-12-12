@@ -6,15 +6,44 @@
     <description>Recent content in Random on Marty S Ramblings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Nov 2019 13:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://martysohio.com/tags/random/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Waterloo Levy fails again</title>
+      <title>Jack Ryan is a funny show</title>
+      <link>https://martysohio.com/2019/12/jack-ryan-is-a-funny-show/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://martysohio.com/2019/12/jack-ryan-is-a-funny-show/</guid>
+      <description>In the search for more shows to binge, I finally got around to watching Jack Ryan. MORE LIKE JIM RYAN, RIGHT ? But anyway, I am not sure which side the writers want the viewers to take. Like every other entry Jack Ryan media, the central character is an upstart wonk. He sits in a corner doing his work until duty calls. Then he is thrust back into action and becomes John Rambo as needed.</description>
+    </item>
+    
+    <item>
+      <title>Materialism is weird</title>
+      <link>https://martysohio.com/2019/12/materialism-is-weird/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://martysohio.com/2019/12/materialism-is-weird/</guid>
+      <description>When I was kid, every year around Christmas, through middle school, everyone was excited about potential gifts. For my peer group, the prized possession was any kind of gaming console and games. I.e. SNES/Gensis games, then Playstation 1/N64 up through the Dreamcast across the 90s.
+Other kids had other dreams. In retrospect, those dreams were very materialistic. We all wanted things. No one was asking for experience or something intangible. Even the elementary school atmosphere encouraged materialism as a form of affection.</description>
+    </item>
+    
+    <item>
+      <title>Py Metis HTTP Monitor</title>
+      <link>https://martysohio.com/2019/11/py-metis-http-monitor/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://martysohio.com/2019/11/py-metis-http-monitor/</guid>
+      <description>Making your own HTTP monitor without breaking the bank can be difficult if you need to scale your monitoring up to thousands of URLs. In most cases, you want to hit some URL every 5 minutes, sometimes every minute. If you have a long list of URLs, then you run into a few constraints:
+ The scan of the URLs has to complete before the next run - monitoring every 5 minutes means your ping and processing has to take less than 5 minutes Jobs can&amp;rsquo;t overrun or you risk spamming your list with HTTP hits Processing the results into useful alerts can also constrain you, but there are multiple ways to approach alerting depending on your needs  I&amp;rsquo;ve seen implementations in Go that make it easier or some other language geared towards concurrency.</description>
+    </item>
+    
+    <item>
+      <title>Waterloo Levy Fails Again</title>
       <link>https://martysohio.com/2019/11/waterloo-levy-fails-again/</link>
-      <pubDate>Wed, 06 Nov 2019 13:50:46 +0200</pubDate>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://martysohio.com/2019/11/waterloo-levy-fails-again/</guid>
       <description>In Ohio, school districts are about 50% funded via the local school district population. Additional funding comes from the state based on the number of students. It is a terrible system that was ruled unconstitutional in the 90s and really not much has changed despite the ruling. For the curious, there are innumerable better sources on why and how that is out there on the Internet.
@@ -28,6 +57,16 @@ My local district Waterloo is no exception.</description>
       
       <guid>https://martysohio.com/2019/10/py-pong-starter/</guid>
       <description>I&amp;rsquo;ve been messing around with PyGame and its certainly a trip. Game logic is much easier than the mechanics of drawing something in the proper order and the proper way. It took way longer than I expected to get a basic version of Pong functional. Needs some final tweaks to beat the 80&amp;frasl;20 rule and have something that is truly complete. I keep redoing it as I find something else out about PyGame and game logic in general.</description>
+    </item>
+    
+    <item>
+      <title>Hacker Rank Special Multiple</title>
+      <link>https://martysohio.com/2019/07/hacker-rank-special-multiple/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://martysohio.com/2019/07/hacker-rank-special-multiple/</guid>
+      <description>Not a hard one: You are given an integer N. Can you find the least positive integer X made up of only 9&#39;s and 0&#39;s, such that, X is a multiple of N?
+Any number consisting of just 9s and 0s is divisible by 9. I see a few ways to use that, also 9s and 0s are two unique characters, so another way would be to process numbers are strings matching those characters rather than evaluating every multiple of N until you hit one thats divisible by 9, as something can be divisible by 9 but not be only 9s and 0s.</description>
     </item>
     
     <item>
