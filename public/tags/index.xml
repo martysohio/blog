@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Marty S Ramblings</title>
@@ -6,85 +6,49 @@
     <description>Recent content in Tags on Marty S Ramblings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://martysohio.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Code</title>
-      <link>https://martysohio.com/tags/code/</link>
-      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      <title>gamedev</title>
+      <link>https://martysohio.com/tags/gamedev/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://martysohio.com/tags/code/</guid>
+      <guid>https://martysohio.com/tags/gamedev/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Coding</title>
-      <link>https://martysohio.com/tags/coding/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      <title>programming</title>
+      <link>https://martysohio.com/tags/programming/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://martysohio.com/tags/coding/</guid>
+      <guid>https://martysohio.com/tags/programming/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Foster</title>
-      <link>https://martysohio.com/tags/foster/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://martysohio.com/tags/foster/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Goose</title>
-      <link>https://martysohio.com/tags/goose/</link>
-      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://martysohio.com/tags/goose/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://martysohio.com/tags/linux/</link>
-      <pubDate>Wed, 18 Sep 2019 13:50:46 +0200</pubDate>
-      
-      <guid>https://martysohio.com/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Local</title>
-      <link>https://martysohio.com/tags/local/</link>
-      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://martysohio.com/tags/local/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://martysohio.com/tags/python/</link>
-      <pubDate>Thu, 31 Oct 2019 13:50:46 +0200</pubDate>
-      
-      <guid>https://martysohio.com/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Random</title>
+      <title>random</title>
       <link>https://martysohio.com/tags/random/</link>
-      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://martysohio.com/tags/random/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Rant</title>
+      <title>socialism</title>
+      <link>https://martysohio.com/tags/socialism/</link>
+      <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://martysohio.com/tags/socialism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rant</title>
       <link>https://martysohio.com/tags/rant/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -93,16 +57,7 @@
     </item>
     
     <item>
-      <title>Schools</title>
-      <link>https://martysohio.com/tags/schools/</link>
-      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://martysohio.com/tags/schools/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Social</title>
+      <title>social</title>
       <link>https://martysohio.com/tags/social/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
       
@@ -111,11 +66,83 @@
     </item>
     
     <item>
-      <title>Tech</title>
+      <title>coding</title>
+      <link>https://martysohio.com/tags/coding/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://martysohio.com/tags/coding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
       <link>https://martysohio.com/tags/tech/</link>
       <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       
       <guid>https://martysohio.com/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>local</title>
+      <link>https://martysohio.com/tags/local/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://martysohio.com/tags/local/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>schools</title>
+      <link>https://martysohio.com/tags/schools/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://martysohio.com/tags/schools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://martysohio.com/tags/python/</link>
+      <pubDate>Thu, 31 Oct 2019 13:50:46 +0200</pubDate>
+      
+      <guid>https://martysohio.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://martysohio.com/tags/linux/</link>
+      <pubDate>Wed, 18 Sep 2019 13:50:46 +0200</pubDate>
+      
+      <guid>https://martysohio.com/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>https://martysohio.com/tags/code/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://martysohio.com/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>goose</title>
+      <link>https://martysohio.com/tags/goose/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://martysohio.com/tags/goose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>foster</title>
+      <link>https://martysohio.com/tags/foster/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://martysohio.com/tags/foster/</guid>
       <description></description>
     </item>
     

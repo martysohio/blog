@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Marty S Ramblings</title>
@@ -6,70 +6,44 @@
     <description>Recent content in Categories on Marty S Ramblings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://martysohio.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Foster Care</title>
-      <link>https://martysohio.com/categories/foster-care/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <title>Gaming</title>
+      <link>https://martysohio.com/categories/gaming/</link>
+      <pubDate>Mon, 27 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://martysohio.com/categories/foster-care/</guid>
+      <guid>https://martysohio.com/categories/gaming/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hackerrank</title>
-      <link>https://martysohio.com/categories/hackerrank/</link>
-      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      <title>politics</title>
+      <link>https://martysohio.com/categories/politics/</link>
+      <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://martysohio.com/categories/hackerrank/</guid>
+      <guid>https://martysohio.com/categories/politics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Linux</title>
-      <link>https://martysohio.com/categories/linux/</link>
-      <pubDate>Wed, 18 Sep 2019 13:50:46 +0200</pubDate>
+      <title>socialism</title>
+      <link>https://martysohio.com/categories/socialism/</link>
+      <pubDate>Thu, 26 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://martysohio.com/categories/linux/</guid>
+      <guid>https://martysohio.com/categories/socialism/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ohio</title>
-      <link>https://martysohio.com/categories/ohio/</link>
-      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <title>TV</title>
+      <link>https://martysohio.com/categories/tv/</link>
+      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://martysohio.com/categories/ohio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Portage County</title>
-      <link>https://martysohio.com/categories/portage-county/</link>
-      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://martysohio.com/categories/portage-county/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>https://martysohio.com/categories/python/</link>
-      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://martysohio.com/categories/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Random</title>
-      <link>https://martysohio.com/categories/random/</link>
-      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://martysohio.com/categories/random/</guid>
+      <guid>https://martysohio.com/categories/tv/</guid>
       <description></description>
     </item>
     
@@ -83,16 +57,52 @@
     </item>
     
     <item>
-      <title>Starting</title>
-      <link>https://martysohio.com/categories/starting/</link>
-      <pubDate>Fri, 28 Dec 2018 13:50:46 +0200</pubDate>
+      <title>Python</title>
+      <link>https://martysohio.com/categories/python/</link>
+      <pubDate>Fri, 15 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://martysohio.com/categories/starting/</guid>
+      <guid>https://martysohio.com/categories/python/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Farm</title>
+      <title>Portage County</title>
+      <link>https://martysohio.com/categories/portage-county/</link>
+      <pubDate>Wed, 06 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://martysohio.com/categories/portage-county/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://martysohio.com/categories/linux/</link>
+      <pubDate>Wed, 18 Sep 2019 13:50:46 +0200</pubDate>
+      
+      <guid>https://martysohio.com/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hackerrank</title>
+      <link>https://martysohio.com/categories/hackerrank/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://martysohio.com/categories/hackerrank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>random</title>
+      <link>https://martysohio.com/categories/random/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://martysohio.com/categories/random/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>the farm</title>
       <link>https://martysohio.com/categories/the-farm/</link>
       <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
       
@@ -101,11 +111,29 @@
     </item>
     
     <item>
-      <title>Tv</title>
-      <link>https://martysohio.com/categories/tv/</link>
-      <pubDate>Tue, 03 Dec 2019 00:00:00 +0000</pubDate>
+      <title>foster care</title>
+      <link>https://martysohio.com/categories/foster-care/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://martysohio.com/categories/tv/</guid>
+      <guid>https://martysohio.com/categories/foster-care/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ohio</title>
+      <link>https://martysohio.com/categories/ohio/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://martysohio.com/categories/ohio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>starting</title>
+      <link>https://martysohio.com/categories/starting/</link>
+      <pubDate>Fri, 28 Dec 2018 13:50:46 +0200</pubDate>
+      
+      <guid>https://martysohio.com/categories/starting/</guid>
       <description></description>
     </item>
     

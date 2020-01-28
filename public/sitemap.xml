@@ -1,9 +1,79 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://martysohio.com/categories/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/tags/gamedev/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/categories/gaming/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/2020/01/godot-pong-demo/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/post/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/tags/programming/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/tags/random/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/tags/</loc>
+    <lastmod>2020-01-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/2019/12/my-idea-of-socialism/</loc>
+    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/categories/politics/</loc>
+    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/tags/socialism/</loc>
+    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/categories/socialism/</loc>
+    <lastmod>2019-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://martysohio.com/2019/12/jack-ryan-is-a-funny-show/</loc>
+    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/categories/tv/</loc>
     <lastmod>2019-12-03T00:00:00+00:00</lastmod>
   </url>
   
@@ -13,8 +83,53 @@
   </url>
   
   <url>
+    <loc>https://martysohio.com/tags/rant/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/categories/social/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/tags/social/</loc>
+    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/tags/coding/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://martysohio.com/2019/11/py-metis-http-monitor/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/categories/python/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/tags/tech/</loc>
+    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/tags/local/</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/categories/portage-county/</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/tags/schools/</loc>
+    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,8 +143,28 @@
   </url>
   
   <url>
+    <loc>https://martysohio.com/tags/python/</loc>
+    <lastmod>2019-10-31T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://martysohio.com/2019/09/disable-app-grouping-in-linux-mint-19-taskbar/</loc>
     <lastmod>2019-09-18T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/tags/linux/</loc>
+    <lastmod>2019-09-18T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/categories/linux/</loc>
+    <lastmod>2019-09-18T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/tags/code/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -38,12 +173,47 @@
   </url>
   
   <url>
-    <loc>https://martysohio.com/2019/06/canadian-geese---natures-satanic-cult/</loc>
+    <loc>https://martysohio.com/categories/hackerrank/</loc>
+    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/2019/06/canadian-geese-natures-satanic-cult/</loc>
     <lastmod>2019-06-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://martysohio.com/2019/04/our-first-foster-placement-pt.-3---the-end/</loc>
+    <loc>https://martysohio.com/tags/goose/</loc>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/categories/random/</loc>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/categories/the-farm/</loc>
+    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/tags/foster/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/categories/foster-care/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/categories/ohio/</loc>
+    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/2019/04/our-first-foster-placement-pt.-3-the-end/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,169 +233,12 @@
   </url>
   
   <url>
-    <loc>https://martysohio.com/archives/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/tags/code/</loc>
-    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/tags/coding/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/tags/foster/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/categories/foster-care/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/tags/goose/</loc>
-    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/categories/hackerrank/</loc>
-    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/tags/linux/</loc>
-    <lastmod>2019-09-18T13:50:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/categories/linux/</loc>
-    <lastmod>2019-09-18T13:50:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/tags/local/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/</loc>
-    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/categories/ohio/</loc>
-    <lastmod>2019-04-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/categories/portage-county/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/post/</loc>
-    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/tags/python/</loc>
-    <lastmod>2019-10-31T13:50:46+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/categories/python/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/tags/random/</loc>
-    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/categories/random/</loc>
-    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/tags/rant/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/tags/schools/</loc>
-    <lastmod>2019-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/tags/social/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/categories/social/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://martysohio.com/categories/starting/</loc>
     <lastmod>2018-12-28T13:50:46+02:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://martysohio.com/tags/</loc>
-    <lastmod>2019-07-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/tags/tech/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/categories/the-farm/</loc>
-    <lastmod>2019-06-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://martysohio.com/categories/tv/</loc>
-    <lastmod>2019-12-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://martysohio.com/archives/</loc>
   </url>
   
 </urlset>

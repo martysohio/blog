@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python on Marty S Ramblings</title>
+    <title>python on Marty S Ramblings</title>
     <link>https://martysohio.com/tags/python/</link>
-    <description>Recent content in Python on Marty S Ramblings</description>
+    <description>Recent content in python on Marty S Ramblings</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 31 Oct 2019 13:50:46 +0200</lastBuildDate>
@@ -17,7 +17,7 @@
       <pubDate>Thu, 31 Oct 2019 13:50:46 +0200</pubDate>
       
       <guid>https://martysohio.com/2019/10/py-pong-starter/</guid>
-      <description>I&amp;rsquo;ve been messing around with PyGame and its certainly a trip. Game logic is much easier than the mechanics of drawing something in the proper order and the proper way. It took way longer than I expected to get a basic version of Pong functional. Needs some final tweaks to beat the 80&amp;frasl;20 rule and have something that is truly complete. I keep redoing it as I find something else out about PyGame and game logic in general.</description>
+      <description>I&amp;rsquo;ve been messing around with PyGame and its certainly a trip. Game logic is much easier than the mechanics of drawing something in the proper order and the proper way. It took way longer than I expected to get a basic version of Pong functional. Needs some final tweaks to beat the 80/20 rule and have something that is truly complete. I keep redoing it as I find something else out about PyGame and game logic in general.</description>
     </item>
     
   </channel>
