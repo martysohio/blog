@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="generator" content="Hugo 0.40.1 with theme Tranquilpeak 0.4.3-SNAPSHOT">
+<meta name="generator" content="Hugo 0.63.2 with theme Tranquilpeak 0.4.7-BETA">
 <meta name="author" content="Marty S">
 <meta name="keywords" content="">
 <meta name="description" content="Not a hard one: You are given an integer N. Can you find the least positive integer X made up of only 9&#39;s and 0&#39;s, such that, X is a multiple of N?
@@ -85,20 +85,23 @@ Any number consisting of just 9s and 0s is divisible by 9. I see a few ways to u
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
     
     
-    <link rel="stylesheet" href="https://martysohio.com/css/style-grfgo2rke9ta2sefdbeudxptnjbgln7cqzqijilyl0wfqionyxeljodbk6k6.min.css" />
+    <link rel="stylesheet" href="https://martysohio.com/css/style-twzjdbqhmnnacqs0pwwdzcdbt8yhv8giawvjqjmyfoqnvazl0dalmnhdkvp7.min.css" />
     
     
 
     
       
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-143906571-2', 'auto');
-ga('send', 'pageview');
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-143906571-2', 'auto');
+	
+	ga('send', 'pageview');
+}
 </script>
 
     
@@ -264,16 +267,10 @@ ga('send', 'pageview');
           
           <div class="post-content markdown" itemprop="articleBody">
             <div class="main-content-wrap">
-              
-
-<p>Not a hard one: <code>You are given an integer N. Can you find the least positive integer X made up of only 9's and 0's, such that, X is a multiple of N?</code></p>
-
+              <p>Not a hard one: <code>You are given an integer N. Can you find the least positive integer X made up of only 9's and 0's, such that, X is a multiple of N?</code></p>
 <p>Any number consisting of just 9s and 0s is divisible by 9.  I see a few ways to use that, also 9s and 0s are two unique characters, so another way would be to process numbers are strings matching those characters rather than evaluating every multiple of N until you hit one thats divisible by 9, as something can be divisible by 9 but not be only 9s and 0s.</p>
-
 <h2 id="brute-force">Brute force</h2>
-
 <p>Also the scenario limits N to up to 500, so its a small set, and doesn&rsquo;t take long to brute force with the any() function.</p>
-
 <pre><code>def solve_brute(n):
     #brute solution
     org_num = n
@@ -283,12 +280,8 @@ ga('send', 'pageview');
                 print(n)
                 break
         n+=org_num
-</code></pre>
-
-<p>But we hit a timeout, its not obvious until you run it up to 500. And its a trap as you do the test cases and they complete nearly instantaneously.</p>
-
+</code></pre><p>But we hit a timeout, its not obvious until you run it up to 500. And its a trap as you do the test cases and they complete nearly instantaneously.</p>
 <p>And many numbers complete instantly.  Lets look at numbers 180-200</p>
-
 <pre><code>number,multiple,time to find in seconds
 180,900,0.0000
 181,9009999,0.0078
@@ -310,20 +303,12 @@ ga('send', 'pageview');
 197,9909000909,9.6778
 198,990,0.0000
 199,999000099,0.8587
-</code></pre>
-
-<p>Its almost random.  Odd numbers seem to stand out as particularly cumbersome.  And anything divisible by 10 (ending with a 0), is superfast.  Even numbers will add up to 10 more often than odd, so that makes sense.</p>
-
+</code></pre><p>Its almost random.  Odd numbers seem to stand out as particularly cumbersome.  And anything divisible by 10 (ending with a 0), is superfast.  Even numbers will add up to 10 more often than odd, so that makes sense.</p>
 <p>Graphing the first 200, which takes 4 minutes to generate!</p>
-
-<p><img src="https://martysohio.com/img/multiples_graph.png" alt="Multiples up to 200" /></p>
-
+<p><img src="https://martysohio.com/img/multiples_graph.png" alt="Multiples up to 200"></p>
 <p>Ok, so primes/odds are going to have weird multiples and the line up to a specific set divisible by 9 is going to be unlikely, so it takes forever just iterating one multiple at a time.</p>
-
 <h2 id="the-other-side">The other side</h2>
-
 <p>Lets try the other direction, how many numbers even exist with just 9s and 0s?</p>
-
 <pre><code>def gen_nines():
     nines = []
     n=1
@@ -333,10 +318,7 @@ ga('send', 'pageview');
             print(n)
         n+=1
     return nines
-</code></pre>
-
-<p>Running that we get only 31 results such as:</p>
-
+</code></pre><p>Running that we get only 31 results such as:</p>
 <pre><code>9
 90
 99
@@ -345,18 +327,11 @@ ga('send', 'pageview');
 990
 999
 ...
-</code></pre>
-
-<p>For a million there are 63,for 100 million 255 numbers.  And improving the above a bit to just add 9 instead of every number n, we can generate the 255 in 10 seconds ahead of time.</p>
-
-<h2 id="pre-generated-multiples">Pre-generated multiples ?</h2>
-
+</code></pre><p>For a million there are 63,for 100 million 255 numbers.  And improving the above a bit to just add 9 instead of every number n, we can generate the 255 in 10 seconds ahead of time.</p>
+<h2 id="pre-generated-multiples-">Pre-generated multiples ?</h2>
 <p>The question is how high do we need to go ? I do not see an obvious way to know. I can make sure the code returns a result for every number <strong>N</strong>, as there must be an answer.</p>
-
 <p>From the first 200 in the brute force I could see the result for 76 was 990,909,090 which is way above 100 million.  And that takes forever to generate. Ok, well lets see if there is a pattern in the numbers of 9s and 0s.</p>
-
 <p>Generating the number + how many times its divisible by 9:</p>
-
 <pre><code>9 1.0
 90 10.0
 99 11.0
@@ -372,22 +347,15 @@ ga('send', 'pageview');
 9909 1101.0
 9990 1110.0
 9999 1111.0
-</code></pre>
-
-<p>Suspicious the the right column is the binary number line counting up from 1. 9090 is divisible by 9 1010 times, but each multiple is going up by 1 if you think of the number as binary.</p>
-
+</code></pre><p>Suspicious the the right column is the binary number line counting up from 1. 9090 is divisible by 9 1010 times, but each multiple is going up by 1 if you think of the number as binary.</p>
 <p>That gives us a mapping to generate any number of 9 multiples we want, so we can quickly generate say, the first thousand of them.</p>
-
 <p>The steps would be:</p>
-
 <ul>
 <li>Count up binary numbers by 1</li>
 <li>Multiple the binary number as a literal base 10 int by 9</li>
 <li>Add result to list</li>
 </ul>
-
 <p>Python trickery:</p>
-
 <pre><code>def binary_nines(n):
     nines = []
     for i in range(1,n):
@@ -402,10 +370,7 @@ time python test.py
 real    0m0.087s
 user    0m0.078s
 sys     0m0.000s
-</code></pre>
-
-<p>That is a lot better! Lets see if we get all the numbers checking this list quickly.</p>
-
+</code></pre><p>That is a lot better! Lets see if we get all the numbers checking this list quickly.</p>
 <pre><code>def binary_nines(n):
     nines = []
     for i in range(1,n):
@@ -421,12 +386,8 @@ for i in range(1,501):
         if nine % i  == 0 and i &lt; nine:
             print(i,nine)
             break
-</code></pre>
-
-<p>Gets all 500 in 0.123s !</p>
-
+</code></pre><p>Gets all 500 in 0.123s !</p>
 <p>But hilariously the hackerrank scenario at <a href="https://www.hackerrank.com/challenges/special-multiple/problem">https://www.hackerrank.com/challenges/special-multiple/problem</a> has bad test cases.  So you can&rsquo;t submit correctly :)</p>
-
 <p>Fun problem, though.</p>
 
               
@@ -463,7 +424,7 @@ for i in range(1,501):
             </li>
             <li class="post-action">
               
-                <a class="post-action-btn btn btn--default tooltip--top" href="https://martysohio.com/2019/06/canadian-geese---natures-satanic-cult/" data-tooltip="Canadian Geese - Nature&#39;s Satanic Cult">
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://martysohio.com/2019/06/canadian-geese-natures-satanic-cult/" data-tooltip="Canadian Geese - Nature&#39;s Satanic Cult">
               
                   <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
                   <i class="fa fa-angle-right"></i>
@@ -522,7 +483,7 @@ for i in range(1,501):
         </article>
         <footer id="footer" class="main-content-wrap">
   <span class="copyrights">
-    &copy; 2019 Marty S. All Rights Reserved
+    &copy; 2020 Marty S. All Rights Reserved
   </span>
 </footer>
 
@@ -543,7 +504,7 @@ for i in range(1,501):
             </li>
             <li class="post-action">
               
-                <a class="post-action-btn btn btn--default tooltip--top" href="https://martysohio.com/2019/06/canadian-geese---natures-satanic-cult/" data-tooltip="Canadian Geese - Nature&#39;s Satanic Cult">
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://martysohio.com/2019/06/canadian-geese-natures-satanic-cult/" data-tooltip="Canadian Geese - Nature&#39;s Satanic Cult">
               
                   <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
                   <i class="fa fa-angle-right"></i>
@@ -642,220 +603,14 @@ for i in range(1,501):
   </div>
 </div>
 
-    <div id="algolia-search-modal" class="modal-container">
-  <div class="modal">
-    <div class="modal-header">
-      <span class="close-button"><i class="fa fa-close"></i></span>
-      <a href="https://algolia.com" target="_blank" rel="noopener" class="searchby-algolia text-color-light link-unstyled">
-        <span class="searchby-algolia-text text-color-light text-small">by</span>
-        <img class="searchby-algolia-logo" src="https://www.algolia.com/static_assets/images/press/downloads/algolia-light.svg">
-      </a>
-      <i class="search-icon fa fa-search"></i>
-      <form id="algolia-search-form">
-        <input type="text" id="algolia-search-input" name="search"
-          class="form-control input--large search-input" placeholder="Search" />
-      </form>
-    </div>
-    <div class="modal-body">
-      <div class="no-result text-color-light text-center">no post found</div>
-      <div class="results">
-        
-        
-          <div class="media">
-            
-            <div class="media-body">
-              <a class="link-unstyled" href="https://martysohio.com/2019/12/jack-ryan-is-a-funny-show/">
-                <h3 class="media-heading">Jack Ryan is a funny show</h3>
-              </a>
-              <span class="media-meta">
-                <span class="media-date text-small">
-                  Dec 12, 2019
-                </span>
-              </span>
-              <div class="media-content hide-xs font-merryweather">In the search for more shows to binge, I finally got around to watching Jack Ryan. MORE LIKE JIM RYAN, RIGHT ? But anyway, I am not sure which side the writers want the viewers to take. Like every other entry Jack Ryan media, the central character is an upstart wonk. He sits in a corner doing his work until duty calls. Then he is thrust back into action and becomes John Rambo as needed.</div>
-            </div>
-            <div style="clear:both;"></div>
-            <hr>
-          </div>
-        
-          <div class="media">
-            
-            <div class="media-body">
-              <a class="link-unstyled" href="https://martysohio.com/2019/12/materialism-is-weird/">
-                <h3 class="media-heading">Materialism is weird</h3>
-              </a>
-              <span class="media-meta">
-                <span class="media-date text-small">
-                  Dec 12, 2019
-                </span>
-              </span>
-              <div class="media-content hide-xs font-merryweather">When I was kid, every year around Christmas, through middle school, everyone was excited about potential gifts. For my peer group, the prized possession was any kind of gaming console and games. I.e. SNES/Gensis games, then Playstation 1/N64 up through the Dreamcast across the 90s.
-Other kids had other dreams. In retrospect, those dreams were very materialistic. We all wanted things. No one was asking for experience or something intangible. Even the elementary school atmosphere encouraged materialism as a form of affection.</div>
-            </div>
-            <div style="clear:both;"></div>
-            <hr>
-          </div>
-        
-          <div class="media">
-            
-            <div class="media-body">
-              <a class="link-unstyled" href="https://martysohio.com/2019/11/py-metis-http-monitor/">
-                <h3 class="media-heading">Py Metis HTTP Monitor</h3>
-              </a>
-              <span class="media-meta">
-                <span class="media-date text-small">
-                  Nov 11, 2019
-                </span>
-              </span>
-              <div class="media-content hide-xs font-merryweather">Making your own HTTP monitor without breaking the bank can be difficult if you need to scale your monitoring up to thousands of URLs. In most cases, you want to hit some URL every 5 minutes, sometimes every minute. If you have a long list of URLs, then you run into a few constraints:
- The scan of the URLs has to complete before the next run - monitoring every 5 minutes means your ping and processing has to take less than 5 minutes Jobs can&rsquo;t overrun or you risk spamming your list with HTTP hits Processing the results into useful alerts can also constrain you, but there are multiple ways to approach alerting depending on your needs  I&rsquo;ve seen implementations in Go that make it easier or some other language geared towards concurrency.</div>
-            </div>
-            <div style="clear:both;"></div>
-            <hr>
-          </div>
-        
-          <div class="media">
-            
-            <div class="media-body">
-              <a class="link-unstyled" href="https://martysohio.com/2019/11/waterloo-levy-fails-again/">
-                <h3 class="media-heading">Waterloo Levy Fails Again</h3>
-              </a>
-              <span class="media-meta">
-                <span class="media-date text-small">
-                  Nov 11, 2019
-                </span>
-              </span>
-              <div class="media-content hide-xs font-merryweather">In Ohio, school districts are about 50% funded via the local school district population. Additional funding comes from the state based on the number of students. It is a terrible system that was ruled unconstitutional in the 90s and really not much has changed despite the ruling. For the curious, there are innumerable better sources on why and how that is out there on the Internet.
-My local district Waterloo is no exception.</div>
-            </div>
-            <div style="clear:both;"></div>
-            <hr>
-          </div>
-        
-          <div class="media">
-            
-            <div class="media-body">
-              <a class="link-unstyled" href="https://martysohio.com/2019/10/py-pong-starter/">
-                <h3 class="media-heading">Py Pong Starter</h3>
-              </a>
-              <span class="media-meta">
-                <span class="media-date text-small">
-                  Oct 10, 2019
-                </span>
-              </span>
-              <div class="media-content hide-xs font-merryweather">I&rsquo;ve been messing around with PyGame and its certainly a trip. Game logic is much easier than the mechanics of drawing something in the proper order and the proper way. It took way longer than I expected to get a basic version of Pong functional. Needs some final tweaks to beat the 80&frasl;20 rule and have something that is truly complete. I keep redoing it as I find something else out about PyGame and game logic in general.</div>
-            </div>
-            <div style="clear:both;"></div>
-            <hr>
-          </div>
-        
-          <div class="media">
-            
-            <div class="media-body">
-              <a class="link-unstyled" href="https://martysohio.com/2019/09/disable-app-grouping-in-linux-mint-19-taskbar/">
-                <h3 class="media-heading">Disable App Grouping in Linux Mint 19 Taskbar</h3>
-              </a>
-              <span class="media-meta">
-                <span class="media-date text-small">
-                  Sep 9, 2019
-                </span>
-              </span>
-              <div class="media-content hide-xs font-merryweather">Simple fluff here. Took me a while to hunt down this feature. I switched to the latest Mint, and the applications all group by type like this -
-If you have an Incognito tab or multiple folders, its a bit annoying for me to hover and flip through and I like to click rather than Alt+Tab or some other window switching method.
-To change it:
- Right click empty space on the taskbar, click + Add Applets to Panel  Select Grouped Window List from the next menu and click the gear icon next to it In the next window untoggle the Group windows by application option   And thats it, now all your applications will be spread out even with multiples of the same app open.</div>
-            </div>
-            <div style="clear:both;"></div>
-            <hr>
-          </div>
-        
-          <div class="media">
-            
-            <div class="media-body">
-              <a class="link-unstyled" href="https://martysohio.com/2019/07/hacker-rank-special-multiple/">
-                <h3 class="media-heading">Hacker Rank Special Multiple</h3>
-              </a>
-              <span class="media-meta">
-                <span class="media-date text-small">
-                  Jul 7, 2019
-                </span>
-              </span>
-              <div class="media-content hide-xs font-merryweather">Not a hard one: You are given an integer N. Can you find the least positive integer X made up of only 9's and 0's, such that, X is a multiple of N?
-Any number consisting of just 9s and 0s is divisible by 9. I see a few ways to use that, also 9s and 0s are two unique characters, so another way would be to process numbers are strings matching those characters rather than evaluating every multiple of N until you hit one thats divisible by 9, as something can be divisible by 9 but not be only 9s and 0s.</div>
-            </div>
-            <div style="clear:both;"></div>
-            <hr>
-          </div>
-        
-          <div class="media">
-            
-            <div class="media-body">
-              <a class="link-unstyled" href="https://martysohio.com/2019/06/canadian-geese---natures-satanic-cult/">
-                <h3 class="media-heading">Canadian Geese - Nature&#39;s Satanic Cult</h3>
-              </a>
-              <span class="media-meta">
-                <span class="media-date text-small">
-                  Jun 6, 2019
-                </span>
-              </span>
-              <div class="media-content hide-xs font-merryweather">Geese are a scourge Since my wife and I are getting old, we&rsquo;ve taken up gardening and with age comes us getting better at it. So of course this year I wanted to try the Three Sisters method of planting. I would plant corn, beans and squash together to maximize the output for a given area, and it would take a bit less work.
-In the spirit of overdoing it, our neighbor was kind enough to use his big Kobota tractor with a tiller attachment to grind up a big area in our backyard.</div>
-            </div>
-            <div style="clear:both;"></div>
-            <hr>
-          </div>
-        
-          <div class="media">
-            
-            <div class="media-body">
-              <a class="link-unstyled" href="https://martysohio.com/2019/04/our-first-foster-placement-pt.-3---the-end/">
-                <h3 class="media-heading">Our First Foster Placement Pt. 3 - The End</h3>
-              </a>
-              <span class="media-meta">
-                <span class="media-date text-small">
-                  Apr 4, 2019
-                </span>
-              </span>
-              <div class="media-content hide-xs font-merryweather">Out the door Leading up to the first weekend away, we called and sent an email to the case worker. We wanted confirmation the children would be able to go to their Aunt&rsquo;s for the weekend. Instead of confirmation (which we had gotten verbally), my wife got a bit of a dressing down over the phone (or at one of their schedule visits, I can&rsquo;t remember which). Paraphrasing - the worker more or less said no one involved had the right to make those decisions except her/Cuyahoga county.</div>
-            </div>
-            <div style="clear:both;"></div>
-            <hr>
-          </div>
-        
-          <div class="media">
-            
-            <div class="media-body">
-              <a class="link-unstyled" href="https://martysohio.com/2019/03/our-first-foster-placement-pt.-2/">
-                <h3 class="media-heading">Our First Foster Placement Pt. 2</h3>
-              </a>
-              <span class="media-meta">
-                <span class="media-date text-small">
-                  Mar 3, 2019
-                </span>
-              </span>
-              <div class="media-content hide-xs font-merryweather">On the way Despite the stress for everyone involved, we were aware our placements would be leaving us by summer, at least as of January. In February, we were summoned for what was called a staffing meeting. This is where various parties related to the case gather together and discuss things that could be in an email.
-The meeting did not really concern us, though my wife and I were both present.</div>
-            </div>
-            <div style="clear:both;"></div>
-            <hr>
-          </div>
-        
-      </div>
-    </div>
-    <div class="modal-footer">
-      <p class="results-count text-medium"
-         data-message-zero="no post found"
-         data-message-one="1 post found"
-         data-message-other="{n} posts found">
-         12 posts found
-      </p>
-    </div>
-  </div>
-</div>
+    
+
     
   
     
-    <div id="cover" style="background-image:url('https://martysohio.com/images/background_hex.jpg');"></div>
+      
+      <div id="cover" style="background-image:url('https://martysohio.com/images/background_hex.jpg');"></div>
+    
   
 
 
@@ -867,7 +622,7 @@ The meeting did not really concern us, though my wife and I were both present.</
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.7/js/jquery.fancybox.min.js" integrity="sha256-GEAnjcTqVP+vBp3SSc8bEDQqvWAZMiHyUSIorrWwH50=" crossorigin="anonymous"></script>
 
 
-<script src="https://martysohio.com/js/script-kmpuq9vknxxcoxu3tuohxdddup4qjdaegksxl3aaoo2rverw8l6ny7zpt5fd.min.js"></script>
+<script src="https://martysohio.com/js/script-pcw6v3xilnxydl1vddzazdverrnn9ctynvnxgwho987mfyqkuylcb1nlt.min.js"></script>
 
 
 <script lang="javascript">
