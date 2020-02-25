@@ -27,7 +27,7 @@ Putting Sander's in the Whitehouse won't make the entire platform a reality over
 
 Most importantly, don't give in to media fears about Sanders.  For-profit media will always be biased towards the status quo. And mixed with today's 24/7 reality TV, constant editorial poinion, they don't know what to do.  On the one-hand, the media loves broadcasting controvery, essentially hoping for trainwrecks like the 2016 Republican primary and Trump's subsquent. I don't think that same effect extends directly to voters.  
 
-In short, its time to try something new. We tried the moderate approach for decades now, and systemtic change hasn't happened. Solving problems requires new ideas, and bold action. As well as simply TRYING something you haven't tried before.  Things will fail, but thats better than doing the same old thing and hoping for a better outcome.  And consistently, whenever socialist core values are explained using terminology not burden by Red Scare propaganda, people tend to like it!  
+In short, its time to try something new. We tried the moderate approach for decades now, and systemtic change hasn't happened. Solving problems requires new ideas, and bold action. As well as simply TRYING something you haven't tried before.  Things will fail, but thats better than doing the same old thing and hoping for a better outcome.  And consistently, whenever socialist core values are explained using terminology not burdened by Red Scare propaganda, people tend to like it!  
 
 
 
