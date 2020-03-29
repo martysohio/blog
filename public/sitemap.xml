@@ -153,12 +153,12 @@
   </url>
   
   <url>
-    <loc>https://martysohio.com/categories/linux/</loc>
+    <loc>https://martysohio.com/tags/linux/</loc>
     <lastmod>2019-09-18T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://martysohio.com/tags/linux/</loc>
+    <loc>https://martysohio.com/categories/linux/</loc>
     <lastmod>2019-09-18T13:50:46+02:00</lastmod>
   </url>
   
@@ -240,6 +240,10 @@
   <url>
     <loc>https://martysohio.com/categories/starting/</loc>
     <lastmod>2018-12-28T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://martysohio.com/1/01/</loc>
   </url>
   
   <url>

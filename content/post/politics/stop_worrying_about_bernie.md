@@ -1,4 +1,5 @@
 ---
+---
 title: "Stop worrying so much about Bernie Sanders"
 thumbnailImagePosition: left
 thumbnailImage: /img/thumb_guy.png
