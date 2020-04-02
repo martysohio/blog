@@ -1,7 +1,7 @@
 ---
 title: "The Giant Can Wake Again"
 thumbnailImagePosition: left
-thumbnailImage: /img/thumb_guy.png
+thumbnailImage: /img/thumb_made.png
 metaAlignment: center
 coverMeta: out
 date: 2020-03-26
