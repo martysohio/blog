@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>covid-10 on Marty S Ramblings</title>
+    <link>https://martysohio.com/categories/covid-10/</link>
+    <description>Recent content in covid-10 on Marty S Ramblings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://martysohio.com/categories/covid-10/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dying of superflu to own the libs</title>
+      <link>https://martysohio.com/2020/03/dying-of-superflu-to-own-the-libs/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://martysohio.com/2020/03/dying-of-superflu-to-own-the-libs/</guid>
+      <description>COVID-19 is upon us, and all signs still point to the USA mirroring Italy. Due to our delay in testing and really doing anything at all, its still not really known how many cases are really out there and the rate they are spreading. However, as people are tested and what testing exists is rolled out, its clear we are experiencing exponential growth in cases throughout the country. According to the graph and data aggregated at worldometer, we&amp;rsquo;re getting 10x more cases every week.</description>
+    </item>
+    
+  </channel>
+</rss>
