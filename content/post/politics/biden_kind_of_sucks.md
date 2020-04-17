@@ -1,7 +1,7 @@
 ---
 title: "Biden kind of sucks"
 thumbnailImagePosition: left
-thumbnailImage: /img/thumb_blue_man.png
+thumbnailImage: /img/thumb_blue_man.PNG
 metaAlignment: center
 coverMeta: out
 date: 2020-03-26
